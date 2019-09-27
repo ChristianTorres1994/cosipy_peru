@@ -1,0 +1,182 @@
+=== JOB_STATISTICS ===
+=== current date     : Wed Sep 25 12:33:12 CEST 2019
+= Job-ID             : 488214
+= Job-Name           : Peru
+= Job-Command        : /tmp/tmpm0tabgwu.sh
+= Initial workdir    : /home/titan/gwgk/gwgk01/Peru_cosipy/cosipy
+= Queue/Partition    : work
+= Features           : (null)
+= Requested resources: cpu=20,mem=28G,node=1,billing=20 / 01:00:00
+= Used resources     : 00:34:25
+= Node list          : m0142
+= Subm/Elig/Start/End: 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T11:58:44 / 2019-09-25T12:33:09
+= AccessKey          : d9acb89e
+======================
+=== JOB_STATISTICS ===
+=== current date     : Wed Sep 25 12:33:12 CEST 2019
+= Job-ID             : 488215
+= Job-Name           : Peru
+= Job-Command        : /tmp/tmp2z6feyz9.sh
+= Initial workdir    : /home/titan/gwgk/gwgk01/Peru_cosipy/cosipy
+= Queue/Partition    : work
+= Features           : (null)
+= Requested resources: cpu=20,mem=28G,node=1,billing=20 / 01:00:00
+= Used resources     : 00:34:25
+= Node list          : m0163
+= Subm/Elig/Start/End: 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T11:58:44 / 2019-09-25T12:33:09
+= AccessKey          : 966e96a6
+======================
+=== JOB_STATISTICS ===
+=== current date     : Wed Sep 25 12:33:12 CEST 2019
+= Job-ID             : 488202
+= Job-Name           : Peru
+= Job-Command        : /tmp/tmp_gcumv_d.sh
+= Initial workdir    : /home/titan/gwgk/gwgk01/Peru_cosipy/cosipy
+= Queue/Partition    : work
+= Features           : (null)
+= Requested resources: cpu=20,mem=28G,node=1,billing=20 / 01:00:00
+= Used resources     : 00:34:28
+= Node list          : m0470
+= Subm/Elig/Start/End: 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T12:33:09
+= AccessKey          : 7682d1ad
+======================
+=== JOB_STATISTICS ===
+=== current date     : Wed Sep 25 12:33:12 CEST 2019
+= Job-ID             : 488200
+= Job-Name           : Peru
+= Job-Command        : /tmp/tmpozlhu6zp.sh
+= Initial workdir    : /home/titan/gwgk/gwgk01/Peru_cosipy/cosipy
+= Queue/Partition    : work
+= Features           : (null)
+= Requested resources: cpu=20,mem=28G,node=1,billing=20 / 01:00:00
+= Used resources     : 00:34:28
+= Node list          : m0468
+= Subm/Elig/Start/End: 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T12:33:09
+= AccessKey          : 44ea6659
+======================
+=== JOB_STATISTICS ===
+=== current date     : === current date     : Wed Sep 25 12:33:12 CEST 2019
+= Job-ID             : 488198
+= Job-Name           : Peru
+= Job-Command        : /tmp/tmpab2l8dzu.sh
+= Initial workdir    : /home/titan/gwgk/gwgk01/Peru_cosipy/cosipy
+= Queue/Partition    : work
+= Features           : (null)
+= Requested resources: cpu=20,mem=28G,node=1,billing=20 / 01:00:00
+= Used resources     : 00:34:28
+= Node list          : m0466
+= Subm/Elig/Start/End: 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T12:33:09
+= AccessKey          : 599baa40
+======================
+=== JOB_STATISTICS ===
+=== current date     : Wed Sep 25 12:33:12 CEST 2019
+= Job-ID             : 488199
+= Job-Name           : Peru
+= Job-Command        : /tmp/tmpeqr269i7.sh
+= Initial workdir    : /home/titan/gwgk/gwgk01/Peru_cosipy/cosipy
+= Queue/Partition    : work
+= Features           : (null)
+= Requested resources: cpu=20,mem=28G,node=1,billing=20 / 01:00:00
+= Used resources     : 00:34:28
+= Node list          : m0467
+= Subm/Elig/Start/End: 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T12:33:09
+= AccessKey          : aa43aca1
+======================
+=== JOB_STATISTICS ===
+=== current date     : Wed Sep 25 12:33:12 CEST 2019
+= Job-ID             : 488211
+= Job-Name           : Peru
+= Job-Command        : /tmp/tmps0njwund.sh
+= Initial workdir    : /home/titan/gwgk/gwgk01/Peru_cosipy/cosipy
+= Queue/Partition    : work
+= Features           : (null)
+= Requested resources: cpu=20,mem=28G,node=1,billing=20 / 01:00:00
+= Used resources     : 00:34:28
+= Node list          : m0139
+= Subm/Elig/Start/End: 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T12:33:09
+= AccessKey          : fec3f263
+======================
+=== JOB_STATISTICS ===
+=== current date     : Wed Sep 25 12:33:12 CEST 2019
+= Job-ID             : 488213
+= Job-Name           : Peru
+= Job-Command        : /tmp/tmpw1h4y37f.sh
+= Initial workdir    : /home/titan/gwgk/gwgk01/Peru_cosipy/cosipy
+= Queue/Partition    : work
+= Features           : (null)
+= Requested resources: cpu=20,mem=28G,node=1,billing=20 / 01:00:00
+= Used resources     : 00:34:28
+= Node list          : m0141
+= Subm/Elig/Start/End: 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T12:33:09
+= AccessKey          : 0c44214b
+======================
+=== JOB_STATISTICS ===
+=== current date     : === current date     : === current date     : Wed Sep 25 12:33:12 CEST 2019
+= Job-ID             : 488206
+= Job-Name           : Peru
+= Job-Command        : /tmp/tmpt5ohaybu.sh
+= Initial workdir    : /home/titan/gwgk/gwgk01/Peru_cosipy/cosipy
+= Queue/Partition    : work
+= Features           : (null)
+= Requested resources: cpu=20,mem=28G,node=1,billing=20 / 01:00:00
+= Used resources     : 00:34:29
+= Node list          : m0134
+= Subm/Elig/Start/End: 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T12:33:10
+= AccessKey          : a1ad44fb
+======================
+=== JOB_STATISTICS ===
+=== current date     : Wed Sep 25 12:33:12 CEST 2019
+= Job-ID             : 488207
+= Job-Name           : Peru
+= Job-Command        : /tmp/tmppr1eieqt.sh
+= Initial workdir    : /home/titan/gwgk/gwgk01/Peru_cosipy/cosipy
+= Queue/Partition    : work
+= Features           : (null)
+= Requested resources: cpu=20,mem=28G,node=1,billing=20 / 01:00:00
+= Used resources     : 00:34:28
+= Node list          : m0135
+= Subm/Elig/Start/End: 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T12:33:09
+= AccessKey          : 5275421a
+======================
+=== JOB_STATISTICS ===
+=== current date     : Wed Sep 25 12:33:12 CEST 2019
+= Job-ID             : 488203
+= Job-Name           : Peru
+= Job-Command        : /tmp/tmpcl0dnf0g.sh
+= Initial workdir    : /home/titan/gwgk/gwgk01/Peru_cosipy/cosipy
+= Queue/Partition    : work
+= Features           : (null)
+= Requested resources: cpu=20,mem=28G,node=1,billing=20 / 01:00:00
+= Used resources     : 00:34:29
+= Node list          : m0471
+= Subm/Elig/Start/End: 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T12:33:10
+= AccessKey          : 855ad74c
+======================
+=== JOB_STATISTICS ===
+=== current date     : Wed Sep 25 12:33:12 CEST 2019
+= Job-ID             : 488208
+= Job-Name           : Peru
+= Job-Command        : /tmp/tmp59n9zon3.sh
+= Initial workdir    : /home/titan/gwgk/gwgk01/Peru_cosipy/cosipy
+= Queue/Partition    : work
+= Features           : (null)
+= Requested resources: cpu=20,mem=28G,node=1,billing=20 / 01:00:00
+= Used resources     : 00:34:29
+= Node list          : m0136
+= Subm/Elig/Start/End: 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T12:33:10
+= AccessKey          : 09dfd8fa
+======================
+=== JOB_STATISTICS ===
+=== current date     : Wed Sep 25 12:33:12 CEST 2019
+= Job-ID             : 488204
+= Job-Name           : Peru
+= Job-Command        : /tmp/tmp3qw3r8rt.sh
+= Initial workdir    : /home/titan/gwgk/gwgk01/Peru_cosipy/cosipy
+= Queue/Partition    : work
+= Features           : (null)
+= Requested resources: cpu=20,mem=28G,node=1,billing=20 / 01:00:00
+= Used resources     : 00:34:29
+= Node list          : m0472
+= Subm/Elig/Start/End: 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T11:58:41 / 2019-09-25T12:33:10
+= AccessKey          : 50b24e99
+======================
