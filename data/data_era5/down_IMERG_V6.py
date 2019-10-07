@@ -9,7 +9,7 @@ import urllib.error
 import http.cookiejar
 from base64 import b64encode
 
-registro = open('IMERG_2018_1.txt').readlines()
+registro = open('IMERG_2018.txt').readlines() # registro
 
 for i in range(len(registro)):
   
