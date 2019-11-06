@@ -7,26 +7,30 @@
 # Declare variable names 
 #------------------------
 
-# Temperature
-T2_var = 'T2'
-
-# Relative humidity
-RH2_var = 'RH2'
-
-# Wind velocity
-U2_var = 'U2'
-
-# Incoming shortwave radiation
-G_var = 'G'
-
 # Pressure
-PRES_var = 'PRES'
+PRES_var = 'Press_aws'   
 
-# Precipitation
-RRR_var = 'RRR'
+# Temperature
+T2_var = 'Tair_aws'  
+in_K = True 
 
 # Cloud cover fraction
-N_var = 'N'
+N_var = 'CCF_aws'
+
+# Relative humidity
+RH2_var = 'RH_aws'   
+
+# Incoming shortwave radiation
+G_var = 'SWin_aws'   
+
+# Precipitation
+RRR_var = 'Ptotal_aws' 
+
+# Wind velocity
+U2_var = 'ws_aws'     
+
+# Incoming longwave radiation
+LWin_var = 'LWinCor_Avg'
 
 # Snowfall
 SNOWFALL_var = 'SNOWFALL'
@@ -37,17 +41,26 @@ SNOWFALL_var = 'SNOWFALL'
 radiationModule = True 
 
 # Time zone
-timezone_lon = 90.0
+timezone_lon = -90.0
 
 # Zenit threshold (>threshold == zenit)
-zeni_thld = 86.0
+zeni_thld = 85.0
+
+#------------------------
+# Point model 
+#------------------------
+point_model = False 
+plon = 10.7779
+plat = 46.807984
+hgt = 2970 
 
 #------------------------
 # Interpolation arguments 
 #------------------------
-stationName = 'Zhadang'
-stationAlt = 5665
+stationName = 'Artesanraju'
+stationAlt = 4910.0
 
-lapse_T    = -0.006     # Temp K per  m
-lapse_RH   = 0.002      # RH % per  m (0 to 1)
-lapse_RRR  = 0.0001     # RRR % per m (0 to 1)
+lapse_T         = -0.006  # Temp K per  m
+lapse_RH        = 0.002  # RH % per  m (0 to 1)
+lapse_RRR       = 0.0001   # RRR % per m (0 to 1)
+lapse_SNOWFALL  = 0.0001   # Snowfall % per m (0 to 1)

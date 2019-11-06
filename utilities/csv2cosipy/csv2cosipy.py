@@ -31,7 +31,7 @@ def create_input(cs_file, cosipy_file, static_file, start_date, end_date):
     #-----------------------------------
     date_parser = lambda x: dateutil.parser.parse(x, ignoretz=True)
     df = pd.read_csv(cs_file,
-       delimiter=',', index_col=['TIMESTAMP'],
+       delimiter='\t', index_col=['TIMESTAMP'],
         parse_dates=['TIMESTAMP'], na_values='NAN',date_parser=date_parser)
 
     df[T2_var] = df[T2_var].apply(pd.to_numeric, errors='coerce')
